@@ -7,7 +7,7 @@
 |1\_Requirements|Detailing of requirements and research.|
 |2\_Design|Specifying the design details.|
 |3\_Implementation|Implementation code for face detection & Facial Keypoints Detection|
-|4\_Test Plans|All Test Cases|
+|4\_Testing|All Test Cases|
 |5\_Output|Output Image|
 |6\_Report|Report of Project|
 ## Contributors List and Summary

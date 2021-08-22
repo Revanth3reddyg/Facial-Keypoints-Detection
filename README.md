@@ -13,7 +13,7 @@
 ## Contributors List and Summary
 |<p>**Name**</p>|<p>**Features**</p>|<p>**Issues Raised**</p>|<p>**No. of Test cases**</p>|<p>**Test Cases Passed**</p>|
 |:-|:-|:-|:-|:-|
-|Revanth Reddy G|Face Detection & Facial Keypoints Detection|0|1|Yes|
+|Revanth Reddy Gunapati|Face Detection & Facial Keypoints Detection|0|1|Yes|
 ## Challenges Faced
      1.  Used Tkinter window to show the pop-up message like press 'e' for quitting but ended up with a not responding page --> Resolved by removing it.
      2.  During the detection,webcam window is not quitting which lead to restart the kernel --> Later resolved using a Hexadecimal Constant(0xFF). 

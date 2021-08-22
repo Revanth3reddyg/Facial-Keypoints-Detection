@@ -1,6 +1,5 @@
 # Facial-Keypoints-Detection
     Main aim of this project is to detect the face and facial keypoints(range from 0-68) using Webcam.
-    
 ## Folder Structure
 |<p>**Folders**</p> |<p>**Description**</p>|
 |:-|:-|

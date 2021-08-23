@@ -69,7 +69,7 @@
 
       Steps that show how face detection and facial Keypoints Detection works:
 
-            1. We have to check whether the face is detecting through the webcam or not. For this, we are using Step 2.
+            1. We have to check whether the face is detecting through the webcam or not.
             2. The picture in the video is transformed from RGB to Grayscale because it is easy to detect faces in grayscale.
             3. Image Segmentation which is used for counter detection or segment the multiple objects in a single image so that the model used can easily or quickly detect the faces in the video.
             4. We use dlib.get_frontal_face_detector () to detect whether the face is in the webcam video or not . dlib.shape_predictor() is a tool that takes in an image region containing some object and outputs a set of point locations that define the pose of the object. Here we use the shape_predictor_68_face_landmarks.dat model to create the predictor object. We then pass the frame and detect the rectangular dimensions.

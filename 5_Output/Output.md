@@ -11,3 +11,6 @@
 # Output Image
 
 ![](OutputofFacialKeypoints&FaceDetection.png)
+
+    - White rectangular Box : detects the face
+    - Green Circular circle : detects the facial Keypoints
